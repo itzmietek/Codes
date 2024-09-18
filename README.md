@@ -16,7 +16,7 @@ create in 18.09.2024
   
 # Calculator
 
-### description
+### Description
 simple calculator
 
 ### Autor
