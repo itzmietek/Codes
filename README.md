@@ -1,4 +1,6 @@
-# BmiCalculator
+# Csharp codes
+
+## BmiCalculator
 
 ### Description
 The project calculates your bmi using the entered data
@@ -14,7 +16,7 @@ create in 18.09.2024
 
 
   
-# Calculator
+## Calculator
 
 ### Description
 simple calculator
