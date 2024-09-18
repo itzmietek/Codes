@@ -1,12 +1,12 @@
-## BmiCalculator
+# BmiCalculator
 
-# Description
+### Description
 The project calculates your bmi using the entered data
 
-# Autor
+### Autor
 Itzmietek :)
 
-# date
+### date
 create in 18.09.2024 
 
 
@@ -14,13 +14,13 @@ create in 18.09.2024
 
 
   
-## Calculator
+# Calculator
 
-# description
+### description
 simple calculator
 
-# Autor
+### Autor
 Itzmietek :)
 
-# date
+### date
 18.09.2024
