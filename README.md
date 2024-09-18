@@ -1,6 +1,6 @@
 # BMICALCULATOR
 
-## Description
+# Description
 The project calculates your bmi using the entered data
 
 # Autor
@@ -10,6 +10,10 @@ Itzmietek :)
 create in 18.09.2024 
 
 
+
+
+
+  
 # CALCULATOR
 
 # description
