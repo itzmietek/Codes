@@ -1,4 +1,4 @@
-# BMICALCULATOR
+## BmiCalculator
 
 # Description
 The project calculates your bmi using the entered data
@@ -14,7 +14,7 @@ create in 18.09.2024
 
 
   
-# CALCULATOR
+## Calculator
 
 # description
 simple calculator
