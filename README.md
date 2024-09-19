@@ -1,4 +1,4 @@
- # <span style="color: blue;">C#</span>
+ # C#
 
 ## BmiCalculator
 
