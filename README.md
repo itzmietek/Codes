@@ -1,4 +1,4 @@
-# Csharp codes
+# C#
 
 ## BmiCalculator
 
