@@ -13,19 +13,19 @@ public class Program
         double bmi = waga / (wzrost * wzrost);
         double roundedBmi = Math.Round(bmi, 2); 
 
-        Console.WriteLine($"Twoje BMI wynosi: {roundedBmi}");
+        Console.WriteLine($"Your Bmi is: {roundedBmi}");
 
         if (roundedBmi < 18.5) 
         {
-            Console.WriteLine("BMI za małe o " + Math.Round((18.5 - roundedBmi), 2));
+            Console.WriteLine("Bmi too low by " + Math.Round((18.5 - roundedBmi), 2));
         } 
         else if (roundedBmi >= 18.5 && roundedBmi <= 25) 
         {
-            Console.WriteLine("Waga prawidłowa");
+            Console.WriteLine("good weight");
         } 
         else 
         {
-            Console.WriteLine("BMI za duże o " + Math.Round((roundedBmi - 25), 2));
+            Console.WriteLine("Bmi too high by " + Math.Round((roundedBmi - 25), 2));
         }
     }
 }
