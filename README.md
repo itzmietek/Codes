@@ -49,3 +49,8 @@ Program is drawing random number and you have to guess which number were drawn b
 Itzmietek :)
 ### Date
 21.09.2024
+
+## AnubisDevelopersWeb
+### INFO
+Website is under construction , we still working at this project , 
+presumed relase date is 30.09.2024 :)
