@@ -1,0 +1,81 @@
+<-  SOON ->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-color: rgb(234, 245, 182);
+        }
+        h1 {
+            font-size: 400%;
+            text-align: center;
+            margin-top: 0;
+        }
+        .menu {
+            position: fixed; 
+            top: 0; 
+            right: 300px; 
+        }
+        .menu-rozwijacz {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+            font-size: 18px; 
+            border: none;
+            cursor: pointer;
+        }
+        .menu-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 200px; 
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+        .menu-content a {
+            color: black;
+            padding: 15px 20px; 
+            text-decoration: none;
+            display: block;
+            font-size: 16px; 
+        }
+        .menu-rozwijacz:hover + .menu-content,
+        .menu-content:hover {
+            display: block;
+        }
+        img {
+            width: 30%;
+            height:35%;
+        }
+        .main {
+            text-align: center;
+        }
+        .p1 {
+            margin-top: 50%;
+            text-align: center;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="menu">
+        <button class="menu-rozwijacz">Rozwiń</button>
+        <div class="menu-content">
+            <a href="https://github.com/AnubisDevelopers">Github</a>
+            <a href="https://discord.gg/3a4RRdDJ">Discord</a>
+            <a href="#">Contact</a>
+        </div>
+    </div>
+    <header>
+        <h1>Strona główna</h1>
+        <p>Anubis Developers</p>
+    </header>
+    <main class="main">
+        <img src="programing.jpg">
+    </main>
+    <footer>
+    </footer>
+</body>
+</html>
